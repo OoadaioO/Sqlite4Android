@@ -13,6 +13,8 @@
    export ANDROID_NDK=/path/to/android-ndk
    ```
 
+3. 将[sqlite源码 sqlite-autoconf-xxx.tar.gz](https://www.sqlite.org/download.html)，解压到当前目录下，或者将当前目录下的所有代码拷贝到sqlite源码目录下 
+
 ## 编译方法1：使用NDK-Build
 
 如果您想使用传统的ndk-build：
